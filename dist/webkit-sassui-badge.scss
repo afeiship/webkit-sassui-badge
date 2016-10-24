@@ -1,0 +1,16 @@
+/*webkit-sassui-badge Start*/
+@mixin webkit-sassui-badge($inColor:#FFF,$inBgColor:#dd514c,$inRadius:10px) {
+  //Your mixin code goes here.
+  font-size: 10px;
+  display: inline-block;
+  padding: 0.2em 0.4em;
+  font-weight: bold;
+  line-height: 1.4em;
+  color: $inColor;
+  border-radius: $inRadius;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: $inBgColor;
+  overflow: hidden;
+}
+/*webkit-sassui-badge End*/
