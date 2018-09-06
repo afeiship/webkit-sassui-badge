@@ -1,6 +1,6 @@
 {
   "name": "webkit-sassui-badge",
-  "description": "Webkit sass ui module for badge.",
+  "description": "Webkit sass ui module for badge",
   "main": [
     "dist/webkit-sassui-badge.css",
     "dist/webkit-sassui-badge.scss"
@@ -14,7 +14,7 @@
     "cssui",
     "badge"
   ],
-  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "homepage": "https://github.com/afeiship/webkit-sassui-badge",
   "moduleType": [
     "amd"
   ],

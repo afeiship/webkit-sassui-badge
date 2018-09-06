@@ -1,0 +1,19 @@
+/*webkit-sassui-badge Start*/
+.webkit-sassui-badge {
+  font-size: 10px;
+  border-radius: 100px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0.24em 0.4em;
+  height: 1.4em;
+  line-height: 1.4em;
+  background-color: #dd514c;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/*webkit-sassui-badge End*/
+body {
+  font-family: -apple-system-font,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif;
+}

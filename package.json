@@ -1,12 +1,18 @@
 {
   "name": "webkit-sassui-badge",
-  "version": "0.0.0",
-  "description": "Webkit sass ui module for badge.",
+  "version": "0.0.1",
+  "description": "Webkit sass ui module for badge",
   "homepage": "https://github.com/afeiship/webkit-sassui-badge",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
   },
+  "scripts": {
+    "build": "gulp",
+    "test": "gulp test",
+    "release": "gulp && gulp test"
+  },
+  "main": "dist/webkit-sassui-badge.scss",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.1",
