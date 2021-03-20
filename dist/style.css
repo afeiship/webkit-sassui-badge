@@ -1,0 +1,22 @@
+/*!
+ * name: @jswork/wsui-badge
+ * description: Webkit sass ui module for badge.
+ * homepage: https://github.com/afeiship/wsui-badge
+ * version: 1.0.0
+ * date: 2021-03-20 21:55:44
+ * license: MIT
+ */
+/*wsui-badge Start*/
+.wsui-badge {
+  font-size: 10px;
+  border-radius: 100px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0.24em 0.4em;
+  line-height: 1.4em;
+  background-color: #dd514c;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden; }
+
+/*wsui-badge End*/

@@ -1,5 +1,5 @@
-/*webkit-sassui-badge Start*/
-.webkit-sassui-badge {
+/*wsui-badge Start*/
+.wsui-badge {
   font-size: 10px;
   border-radius: 100px;
   display: inline-block;
@@ -9,6 +9,10 @@
   background-color: #dd514c;
   color: #fff;
   white-space: nowrap;
-  overflow: hidden; }
+  overflow: hidden;
+}
 
-/*webkit-sassui-badge End*/
+/*wsui-badge End*/
+.test-wsui-badge {
+  border: 1px solid red;
+}
