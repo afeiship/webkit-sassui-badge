@@ -3,7 +3,7 @@
  * description: Webkit sass ui module for badge.
  * homepage: https://github.com/afeiship/wsui-badge
  * version: 1.0.0
- * date: 2021-03-20 22:00:18
+ * date: 2021-03-22 08:59:45
  * license: MIT
  */
 
@@ -21,6 +21,7 @@ $wsui-badge-options: (
 
   font-size: 10px;
   border-radius: 100px;
+  min-width: 1em;
   display: inline-block;
   vertical-align: middle;
   padding: $padding;
